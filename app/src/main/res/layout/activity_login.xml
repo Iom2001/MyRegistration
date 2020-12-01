@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:paddingTop="20dp"
     tools:context=".MainActivity">
-
+<!--textView-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -198,5 +198,6 @@
                 android:textColor="@color/black_text"
                 android:textStyle="bold" />
         </LinearLayout>
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
